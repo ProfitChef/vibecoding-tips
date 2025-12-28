@@ -18,6 +18,7 @@
   ## Guides
 
   - [Playwright MCP Browser Debugging (RU)](guides/playwright-mcp-browser-debugging-ru.md) — Настройка Playwright MCP для отладки React-приложений в Claude Code
+  - [QA Agent Setup (RU)](guides/qa-agent-setup-ru.md) — Автоматический QA-агент с Playwright MCP для верификации UI
 
   ## Who Is This For
 
