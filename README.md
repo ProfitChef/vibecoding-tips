@@ -17,8 +17,9 @@
 
   ## Guides
 
-  - [Playwright MCP Browser Debugging (RU)](guides/playwright-mcp-browser-debugging-ru.md) — Настройка Playwright MCP для отладки React-приложений в Claude Code
+  - [Session Analyzer Agent (RU)](guides/session-analyzer-agent-ru.md) — Мета-агент для анализа сессий Claude Code: паттерны, автоматизации, мониторинг агентов
   - [QA Agent Setup (RU)](guides/qa-agent-setup-ru.md) — Автоматический QA-агент с Playwright MCP для верификации UI
+  - [Playwright MCP Browser Debugging (RU)](guides/playwright-mcp-browser-debugging-ru.md) — Настройка Playwright MCP для отладки React-приложений в Claude Code
 
   ## Who Is This For
 
