@@ -15,6 +15,10 @@
   - **Anti-patterns** — Common mistakes and how to avoid them
   - **Real Examples** — Before/after prompts with actual results
 
+  ## Guides
+
+  - [Playwright MCP Browser Debugging (RU)](guides/playwright-mcp-browser-debugging-ru.md) — Настройка Playwright MCP для отладки React-приложений в Claude Code
+
   ## Who Is This For
 
   - Developers exploring AI-assisted coding
