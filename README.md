@@ -17,6 +17,7 @@
 
   ## Guides
 
+  - [Superpowers Framework (RU)](guides/superpowers-framework-ru.md) — Полный workflow для Claude Code: brainstorming, планирование, TDD, code review
   - [Sound Notifications (RU)](guides/claude-code-sound-notifications-ru.md) — Звуковые уведомления для Claude Code: алерты когда нужно внимание
   - [Session Analyzer Agent (RU)](guides/session-analyzer-agent-ru.md) — Мета-агент для анализа сессий Claude Code: паттерны, автоматизации, мониторинг агентов
   - [QA Agent Setup (RU)](guides/qa-agent-setup-ru.md) — Автоматический QA-агент с Playwright MCP для верификации UI
